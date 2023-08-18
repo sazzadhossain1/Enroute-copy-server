@@ -1,0 +1,117 @@
+[
+  {
+    "_id": 1,
+    "pHeading": "Expert In Business Process",
+    "heading": "MANAGED SERVICE",
+    "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
+
+    "btnOne": "People Outsourcing",
+    "btnTwo": "Facility Management",
+    "btnThree": "Enroute Paysolutions",
+    "btnFour": "Events & Activation",
+    "img": "https://st.depositphotos.com/1071909/2328/i/450/depositphotos_23287114-stock-photo-customer-or-employees-care-concept.jpg",
+
+    "secondPart": [
+      {
+        "_id": 2,
+        "pHeading": "Expert In Business Process",
+        "heading": "MANAGED SERVICE",
+        "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
+
+        "btnOne": "People Outsourcing",
+        "btnTwo": "Facility Management",
+        "btnThree": "Enroute Paysolutions",
+        "btnFour": "Events & Activation",
+        "img": "https://teach-now.co.uk/wp-content/uploads/2022/12/roles.png"
+      }
+    ],
+    "thirdPart": [
+      {
+        "_id": 3,
+        "pHeading": "Expert In Business Process",
+        "heading": "MANAGED SERVICE",
+        "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
+
+        "btnOne": "People Outsourcing",
+        "btnTwo": "Facility Management",
+        "btnThree": "Enroute Paysolutions",
+        "btnFour": "Events & Activation",
+        "img": "https://www.edhec.edu/sites/default/files/2022-06/EMBA%20HIT_0.jpg"
+      }
+    ],
+    "forthPart": [
+      {
+        "_id": 4,
+        "pHeading": "Expert In Business Process",
+        "heading": "MANAGED SERVICE",
+        "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
+
+        "btnOne": "People Outsourcing",
+        "btnTwo": "Facility Management",
+        "btnThree": "Enroute Paysolutions",
+        "btnFour": "Events & Activation",
+        "img": "https://www.edhec.edu/sites/default/files/2022-06/EMBA%20HIT_0.jpg"
+      }
+    ],
+    "successCart": [
+      {
+        "id": 1,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/05/nccbl-story-thumb.jpg",
+        "heading": "Bridging Potential and Opportunity: MTO..."
+      },
+      {
+        "id": 2,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/05/petromax-story-thumb.jpg",
+        "heading": "From Vision to Reality: A Remarkable Journe..."
+      },
+      {
+        "id": 3,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/12/GA_thumb.png",
+        "heading": "Back to the Roots I GamesHour Corporate..."
+      },
+      {
+        "id": 4,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/05/shakti-story.jpg",
+        "heading": "Bridging Potential and Opportunity: MTO..."
+      },
+      {
+        "id": 5,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/12/Shujola-thumb.jpg",
+        "heading": "From Vision to Reality: A Remarkable Journe..."
+      },
+      {
+        "id": 6,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/05/sarathi-thumb.jpg",
+        "heading": "From Vision to Reality: A Remarkable Journe..."
+      },
+      {
+        "id": 7,
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/04/stry.jpg",
+        "heading": "From Vision to Reality: A Remarkable Journe..."
+      }
+    ],
+    "ourBlogs": [
+      {
+        "id": 1,
+        "img": "https://enroute.com.bd/wp-content/uploads/2023/07/Payroll-Mistakes-450x231.jpg",
+        "enoute": "ENROUTE",
+        "comments": "COMMENTS",
+        "title": "Unlock Payroll Success: A Guide to Avoid Top 10 Payroll Mistakes for Your Business"
+      },
+      {
+        "id": 2,
+        "img": "https://enroute.com.bd/wp-content/uploads/2023/05/Supply-Chain-Management-450x231.jpg",
+        "enoute": "ENROUTE",
+        "comments": "COMMENTS",
+        "title": "Outsourcing in Supply Chain Management: Top 8 Reasons to Consider it in 2023"
+      },
+      {
+        "id": 3,
+        "img": "https://enroute.com.bd/wp-content/uploads/2023/05/IT-Outsourcing-450x231.jpg",
+        "enoute": "ENROUTE",
+        "comments": "COMMENTS",
+        "title": "Maximize Your Business Potential with IT Outsourcing Services in Bangladesh"
+      }
+    ]
+  }
+]
