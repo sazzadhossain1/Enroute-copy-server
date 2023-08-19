@@ -5,6 +5,28 @@
     "heading": "MANAGED SERVICE",
     "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
 
+    "button": [
+      {
+        "id": 1,
+        "buttonOne": "People outsourcing",
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/04/People-Outsourcing-about.jpg"
+      },
+      {
+        "id": 2,
+        "buttonTwo": "Enroute Paysolutions",
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Facility-Management-about.jpg"
+      },
+      {
+        "id": 3,
+        "buttonThree": "Facility Management",
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Enroute-Paysolutions-about.jpg"
+      },
+      {
+        "id": 4,
+        "buttonFour": "Events & Activation",
+        "img": "https://enroute.com.bd/wp-content/uploads/2022/04/events-activation-about.jpg"
+      }
+    ],
     "btnOne": "People Outsourcing",
     "btnTwo": "Facility Management",
     "btnThree": "Enroute Paysolutions",

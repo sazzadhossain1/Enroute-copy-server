@@ -15,6 +15,12 @@ app.get("/allApis", (req, res) => {
   res.send(allApis);
 });
 
+app.get("/allApis/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const api = allApis[0].button.find((apiById) => apiById.id === id);
+  res.send(api);
+});
+
 app.listen(port, () => {
   console.log("Express app listening on port");
 });
