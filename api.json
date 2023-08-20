@@ -10,46 +10,141 @@
         "id": 1,
         "buttonOne": "People outsourcing",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/People-Outsourcing-about.jpg",
+        "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png",
         "pTitleById": "Prioritizing Timely Solutions",
         "headingOne": "Bespoke",
         "headingTwo": "People Outsourcing",
         "headingThree": "Solution",
         "pFirst": "Enroute is the best people outsourcing company in Bangladesh. Operating in Bangladesh for a long time with excellence now it has also become one of the most reputed human resources management outsourcing companies as well. With undeniable success in the local industry, the roots of the company go deep into developing client relationships. We offer a long-term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals.",
         "pSecond": "To adapt to complete work or take their services to the next level people outsourcing is necessary. We ensure the maximum flourishment of a business with our perfectly designed, efficient and effective process of people outsourcing supported by modern technologies and perfected by our industry-leading experience. For a reliable solution in people outsourcing services, Enroute is the right stepping stone for progressing businesses.",
-        "PeopleOutsourcing": []
+        "buttonData": [
+          {
+            "id": 1,
+            "title": "HR Management",
+            "btnParagraph": "To adapt to complete work or take their services to the next level people outsourcing is necessary. We ensure the maximum flourishment of a business with our perfectly designed, efficient and effective process of people outsourcing supported by modern technologies and perfected by our industry-leading experience. For a reliable solution in people outsourcing services, Enroute is the right stepping stone for progressing businesses.",
+            "imgById": "https://media.istockphoto.com/id/614211848/photo/united-through-their-diversity.jpg?s=612x612&w=0&k=20&c=RZtAIdEyA71ji9dse0W0CmChr6siM9MrPmWane2UZII="
+          },
+          {
+            "id": 2,
+            "title": "Payroll Management",
+            "btnParagraph": "Enroute is one of the best payroll outsourcing firm in Bangladesh. Our accurate and comprehensive hr payroll outsourcing services save your valuable resources while maintaining confidentiality. We handle payrolls of many national and international organizations including INGOs. Our highly qualified and dedicated team delivers effective outsource payroll service to meet any legislative requirements. With our salary advice and tax calculation amenities payroll for your organization becomes easier, secure and more efficient.",
+            "imgById": "https://media.istockphoto.com/id/1497299063/photo/fair-pay-for-a-team-of-subordinate-employees.jpg?s=2048x2048&w=is&k=20&c=DZfwxBh04roMob98xOPCnMKpPFW5RntxuW2UDJKZNrk="
+          },
+          {
+            "id": 3,
+            "title": "Asset Management",
+            "btnParagraph": "Enroute is one of the reputed asset management outsourcing firm in Bangladesh. Our practice in asset management offers specialized services to a wide range of industry clients at different levels. Our professionals in asset management and tracking have deep knowledge and experience in managing a high volume of assets with ease having a proven record in business management outsourcing. With our asset management service, we aim to provide you with a tailored service of the highest standard. Our service includes tagging assets with employees and tracking the update and maintenance among many things.",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Distribution Management",
+            "btnParagraph": "When it comes to outsourcing distribution Enroute has a deep admiration in the industry. Our distribution management services is a one-stop powerhouse offering a safe, accessible, and ready supply chain solution. Our distribution management services under business process outsourcing department are handled by a capable team that has the capacity to reach nationwide. This set of agile operational tools and service excellency is preferred by growing business minds for a quick easy and prominent solution. Within this domain, we ensure careful & efficient management of distribution channels.",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          }
+        ]
       },
       {
         "id": 2,
         "buttonTwo": "Enroute Paysolutions",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Facility-Management-about.jpg",
+        "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png",
         "pTitleById": "Strategic Growth for Future",
         "headingOne": "Automated",
         "headingTwo": "Facility Management",
         "headingThree": "Practices",
         "pFirst": "Outsourcing facilities management can be defined as one of the most analytical, interpretative & evaluative services we manage for our most valued clients. To support the highest level of functionality, safety, and sustainable facility management we provide our facilities management solution. Our services include lease management, project management, maintenance and operations, emergency facility management, and real estate management.",
-        "pSecond": "Enroute is one of the top facilities management companies in Bangladesh. We have been successfully managing several kinds of facility management services for the clients over the years with excellence. With growing business needs and opportunities, facilities are required at convenient places with proper management. Enroute provides one of the best facilities management solutions that provide you with completely risk-free in terms of facility management."
+        "pSecond": "Enroute is one of the top facilities management companies in Bangladesh. We have been successfully managing several kinds of facility management services for the clients over the years with excellence. With growing business needs and opportunities, facilities are required at convenient places with proper management. Enroute provides one of the best facilities management solutions that provide you with completely risk-free in terms of facility management.",
+        "buttonData": [
+          {
+            "id": 1,
+            "title": "sdfdsfdsf",
+            "imgById": "https://media.istockphoto.com/id/614211848/photo/united-through-their-diversity.jpg?s=612x612&w=0&k=20&c=RZtAIdEyA71ji9dse0W0CmChr6siM9MrPmWane2UZII="
+          },
+          {
+            "id": 2,
+            "title": "sddddddddd",
+            "imgById": "https://media.istockphoto.com/id/1497299063/photo/fair-pay-for-a-team-of-subordinate-employees.jpg?s=2048x2048&w=is&k=20&c=DZfwxBh04roMob98xOPCnMKpPFW5RntxuW2UDJKZNrk="
+          },
+          {
+            "id": 3,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          },
+          {
+            "id": 4,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          }
+        ]
       },
       {
         "id": 3,
         "buttonThree": "Facility Management",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Enroute-Paysolutions-about.jpg",
+        "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png",
         "pTitleById": "Unified Solutions For Business",
         "headingOne": "Progressive",
         "headingTwo": "Paysolutions services",
         "headingThree": "Ensuring Success",
         "pFirst": "Enroute has the most sophisticated managed payroll services in Bangladesh. Since 2012 Enroute has continuously served its clients with utmost sincerity as an outsourced payroll service provider. We have accurately managed employee monthly wages securely on time. Not just that, we have also provided legal aid from time to time in terms of income tax advocacy.",
-        "pSecond": "The expert team of individuals leading the pay solutions makes sure that your payroll operates seamlessly, freeing your HR, finance, and admin teams from time-consuming work. We are also working In close collaboration with two of the leading global pay solution firms."
+        "pSecond": "The expert team of individuals leading the pay solutions makes sure that your payroll operates seamlessly, freeing your HR, finance, and admin teams from time-consuming work. We are also working In close collaboration with two of the leading global pay solution firms.",
+        "buttonData": [
+          {
+            "id": 2,
+            "title": "sdfdsfdsf",
+            "imgById": "https://media.istockphoto.com/id/614211848/photo/united-through-their-diversity.jpg?s=612x612&w=0&k=20&c=RZtAIdEyA71ji9dse0W0CmChr6siM9MrPmWane2UZII="
+          },
+          {
+            "id": 3,
+            "title": "sddddddddd",
+            "imgById": "https://media.istockphoto.com/id/1497299063/photo/fair-pay-for-a-team-of-subordinate-employees.jpg?s=2048x2048&w=is&k=20&c=DZfwxBh04roMob98xOPCnMKpPFW5RntxuW2UDJKZNrk="
+          },
+          {
+            "id": 4,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          },
+          {
+            "id": 5,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          }
+        ]
       },
       {
         "id": 4,
         "buttonFour": "Events & Activation",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/events-activation-about.jpg",
+        "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png",
         "pTitleById": "Experiential Brand Services",
         "headingOne": "Setting the Right Vibe With",
         "headingTwo": "Engaging Event &",
         "headingThree": "Activation",
         "pFirst": "Enroute is one of the most reputed event management company in Bangladesh. We centralize our attention on strategic implementation to better enhance the process of purchasing a product by a customer using the right methods of brand activation events. With the support of our vastly experienced team, you get an extra edge on your campaigns and corporate events which will be more fitted to achieve your goals.",
-        "pSecond": "This being said, we plan and execute the plans that make your event unique from the competitors. That unique differentiator is what our partnership provides you for your brand. Being a prominent event activation agency in Bangladesh, our support includes many demanding solutions. From the start of your brand to sustaining solutions over time and ensuring growth, our prowess in organizing events and activations is something to rely upon."
+        "pSecond": "This being said, we plan and execute the plans that make your event unique from the competitors. That unique differentiator is what our partnership provides you for your brand. Being a prominent event activation agency in Bangladesh, our support includes many demanding solutions. From the start of your brand to sustaining solutions over time and ensuring growth, our prowess in organizing events and activations is something to rely upon.",
+        "buttonData": [
+          {
+            "id": 1,
+            "title": "sdfdsfdsf",
+            "imgById": "https://media.istockphoto.com/id/614211848/photo/united-through-their-diversity.jpg?s=612x612&w=0&k=20&c=RZtAIdEyA71ji9dse0W0CmChr6siM9MrPmWane2UZII="
+          },
+          {
+            "id": 2,
+            "title": "sddddddddd",
+            "imgById": "https://media.istockphoto.com/id/1497299063/photo/fair-pay-for-a-team-of-subordinate-employees.jpg?s=2048x2048&w=is&k=20&c=DZfwxBh04roMob98xOPCnMKpPFW5RntxuW2UDJKZNrk="
+          },
+          {
+            "id": 3,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          },
+          {
+            "id": 4,
+            "title": "vvvvvvvvvvvvv",
+            "imgById": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2021/03/asset-management.jpg"
+          }
+        ]
       }
     ],
     "btnOne": "People Outsourcing",
