@@ -9,6 +9,7 @@
       {
         "id": 1,
         "buttonOne": "People outsourcing",
+        "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/people-outsourcing-banner.jpg",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/People-Outsourcing-about.jpg",
         "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png",
         "pTitleById": "Prioritizing Timely Solutions",
@@ -20,6 +21,7 @@
         "buttonData": [
           {
             "id": 1,
+
             "title": "HR Management",
             "btnParagraph": "To adapt to complete work or take their services to the next level people outsourcing is necessary. We ensure the maximum flourishment of a business with our perfectly designed, efficient and effective process of people outsourcing supported by modern technologies and perfected by our industry-leading experience. For a reliable solution in people outsourcing services, Enroute is the right stepping stone for progressing businesses.",
             "imgById": "https://media.istockphoto.com/id/614211848/photo/united-through-their-diversity.jpg?s=612x612&w=0&k=20&c=RZtAIdEyA71ji9dse0W0CmChr6siM9MrPmWane2UZII="
@@ -47,6 +49,7 @@
       {
         "id": 2,
         "buttonTwo": "Enroute Paysolutions",
+        "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/facility-management-banner.png",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Facility-Management-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png",
         "pTitleById": "Strategic Growth for Future",
@@ -90,6 +93,8 @@
       {
         "id": 3,
         "buttonThree": "Facility Management",
+        "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/enroute-paysolutions-banner.jpg",
+
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Enroute-Paysolutions-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png",
         "pTitleById": "Unified Solutions For Business",
@@ -128,6 +133,7 @@
       {
         "id": 4,
         "buttonFour": "Events & Activation",
+        "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/events-activation-banner.jpg",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/events-activation-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png",
         "pTitleById": "Experiential Brand Services",
