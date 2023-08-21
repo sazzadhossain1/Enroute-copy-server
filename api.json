@@ -10,6 +10,7 @@
         "id": 1,
         "buttonOne": "People outsourcing",
         "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/people-outsourcing-banner.jpg",
+        "backgroundTitle": "People Outsourcing",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/People-Outsourcing-about.jpg",
         "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png",
         "pTitleById": "Prioritizing Timely Solutions",
@@ -18,6 +19,10 @@
         "headingThree": "Solution",
         "pFirst": "Enroute is the best people outsourcing company in Bangladesh. Operating in Bangladesh for a long time with excellence now it has also become one of the most reputed human resources management outsourcing companies as well. With undeniable success in the local industry, the roots of the company go deep into developing client relationships. We offer a long-term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals.",
         "pSecond": "To adapt to complete work or take their services to the next level people outsourcing is necessary. We ensure the maximum flourishment of a business with our perfectly designed, efficient and effective process of people outsourcing supported by modern technologies and perfected by our industry-leading experience. For a reliable solution in people outsourcing services, Enroute is the right stepping stone for progressing businesses.",
+        "secondPartTitle": "Reroute To Success With",
+        "secondPartHeadingOne": "Our",
+        "secondPartHeadingTwo": "Services",
+        "secondPartParagraph": "By outsourcing people with EnrouteCopy, Our clients can be relieved of their day to day hr operations which saves them valuable time that can be utilized for growth.",
         "buttonData": [
           {
             "id": 1,
@@ -50,6 +55,7 @@
         "id": 2,
         "buttonTwo": "Enroute Paysolutions",
         "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/facility-management-banner.png",
+        "backgroundTitle": "Facility Management",
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Facility-Management-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png",
         "pTitleById": "Strategic Growth for Future",
@@ -95,6 +101,8 @@
         "buttonThree": "Facility Management",
         "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/enroute-paysolutions-banner.jpg",
 
+        "backgroundTitle": "Enroute Paysolutions",
+
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/Enroute-Paysolutions-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png",
         "pTitleById": "Unified Solutions For Business",
@@ -133,7 +141,11 @@
       {
         "id": 4,
         "buttonFour": "Events & Activation",
+
         "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/events-activation-banner.jpg",
+
+        "backgroundTitle": "Events & Activation",
+
         "img": "https://enroute.com.bd/wp-content/uploads/2022/04/events-activation-about.jpg",
         "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png",
         "pTitleById": "Experiential Brand Services",
@@ -175,10 +187,7 @@
         ]
       }
     ],
-    "btnOne": "People Outsourcing",
-    "btnTwo": "Facility Management",
-    "btnThree": "Enroute Paysolutions",
-    "btnFour": "Events & Activation",
+
     "img": "https://st.depositphotos.com/1071909/2328/i/450/depositphotos_23287114-stock-photo-customer-or-employees-care-concept.jpg",
 
     "secondPart": [
