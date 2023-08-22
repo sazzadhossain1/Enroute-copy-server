@@ -23,6 +23,7 @@
         "secondPartHeadingOne": "Our",
         "secondPartHeadingTwo": "Services",
         "secondPartParagraph": "By outsourcing people with EnrouteCopy, Our clients can be relieved of their day to day hr operations which saves them valuable time that can be utilized for growth.",
+
         "buttonData": [
           {
             "id": 1,
@@ -48,6 +49,43 @@
             "title": "Distribution Management",
             "btnParagraph": "When it comes to outsourcing distribution Enroute has a deep admiration in the industry. Our distribution management services is a one-stop powerhouse offering a safe, accessible, and ready supply chain solution. Our distribution management services under business process outsourcing department are handled by a capable team that has the capacity to reach nationwide. This set of agile operational tools and service excellency is preferred by growing business minds for a quick easy and prominent solution. Within this domain, we ensure careful & efficient management of distribution channels.",
             "imgById": "https://media.licdn.com/dms/image/C5112AQFXMAP9WGCn5g/article-cover_image-shrink_423_752/0/1570904948651?e=1698278400&v=beta&t=tpnaZk-0M-dFV05HtNm59H8c5haeOO-hrqnIhZ4aVlY"
+          }
+        ],
+        "buttonSuccessCart": [
+          {
+            "id": 1,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/nccbl-story-thumb.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 2,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/petromax-story-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 3,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/GA_thumb.png",
+            "heading": "Back to the Roots I GamesHour Corporate..."
+          },
+          {
+            "id": 4,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/shakti-story.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 5,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/Shujola-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 6,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/sarathi-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 7,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/04/stry.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
           }
         ]
       },
@@ -100,6 +138,43 @@
             "btnParagraph": "Enroute is one of the top income tax consultant in bangladesh. Our income Tax Advocacy service is designed to provide assistance to individual income tax services of client organizations as well as organization as a whole. With up-to-date information and years of experience, we identify systematic approaches to recommend long-term solutions to taxpaying employees.",
             "btnParagraphTwo": "Our team of payroll consultants helps you to stay up-to-date on the latest tax legislation and policies. Besides this, we have coherent software and our operation team incorporates all necessary changes into the system as and when required; specifically the changes in income tax law. All the offerings combined makes our services the best payroll service for small business in Bangladesh as small business can not afford these individual services. After tax-year ends, we provide yearly salary certificates for individual employees and salary reports for organizations according to section 108 of the Income Tax Ordinance, 1984. We also offer tax filing/tax return services both for individual employees and for organizations."
           }
+        ],
+        "buttonSuccessCart": [
+          {
+            "id": 1,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/nccbl-story-thumb.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 2,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/petromax-story-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 3,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/GA_thumb.png",
+            "heading": "Back to the Roots I GamesHour Corporate..."
+          },
+          {
+            "id": 4,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/shakti-story.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 5,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/Shujola-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 6,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/sarathi-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 7,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/04/stry.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          }
         ]
       },
       {
@@ -145,6 +220,43 @@
             "title": "Procurement Support Service",
             "imgById": "https://emedia1.nhs.wales/NWSSP/cache/file/C376DA47-EB41-4F07-995A2D89A695921F_carouselimage.jpg",
             "btnParagraph": "Enroute is one of the best facilities management company in Bangladesh. We understand the need for Increased demand from internal consumers of the organization which indicates the growing need for procurement for the organization. Without resourced adequately, it can overwhelm the already lean internal team, and sometimes even erode the overall impact. Enroute’s procurement support services ensure that the internal team of your organization is performing extensively as well as, expanding its reach and keeping pace with rising expectations. This service is specially designed to meet seamless support and demand."
+          }
+        ],
+        "buttonSuccessCart": [
+          {
+            "id": 1,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/nccbl-story-thumb.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 2,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/petromax-story-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 3,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/GA_thumb.png",
+            "heading": "Back to the Roots I GamesHour Corporate..."
+          },
+          {
+            "id": 4,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/shakti-story.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 5,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/Shujola-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 6,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/sarathi-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 7,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/04/stry.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
           }
         ]
       },
@@ -197,6 +309,43 @@
             "imgById": "https://banwo-ighodalo.com/assets/grey-matter/b4ae80d89a1a45fa67a53def96d07f64.jpg",
             "btnParagraph": "Enroute is one of the top income tax consultant in bangladesh. Our income Tax Advocacy service is designed to provide assistance to individual income tax services of client organizations as well as organization as a whole. With up-to-date information and years of experience, we identify systematic approaches to recommend long-term solutions to taxpaying employees.",
             "btnParagraphTwo": "Our team of payroll consultants helps you to stay up-to-date on the latest tax legislation and policies. Besides this, we have coherent software and our operation team incorporates all necessary changes into the system as and when required; specifically the changes in income tax law. All the offerings combined makes our services the best payroll service for small business in Bangladesh as small business can not afford these individual services. After tax-year ends, we provide yearly salary certificates for individual employees and salary reports for organizations according to section 108 of the Income Tax Ordinance, 1984. We also offer tax filing/tax return services both for individual employees and for organizations."
+          }
+        ],
+        "buttonSuccessCart": [
+          {
+            "id": 1,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/nccbl-story-thumb.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 2,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/petromax-story-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 3,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/GA_thumb.png",
+            "heading": "Back to the Roots I GamesHour Corporate..."
+          },
+          {
+            "id": 4,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/shakti-story.jpg",
+            "heading": "Bridging Potential and Opportunity: MTO..."
+          },
+          {
+            "id": 5,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/12/Shujola-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 6,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/05/sarathi-thumb.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
+          },
+          {
+            "id": 7,
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/04/stry.jpg",
+            "heading": "From Vision to Reality: A Remarkable Journe..."
           }
         ]
       }
