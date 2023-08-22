@@ -21,6 +21,15 @@ app.get("/allApis/:id", (req, res) => {
   res.send(api);
 });
 
+// Get Second Part Data By Id //
+app.get("/allApisTwo/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const api = allApis[0].secondPart[0].button.find(
+    (apiById) => apiById.id === id
+  );
+  res.send(api);
+});
+
 app.listen(port, () => {
   console.log("Express app listening on port");
 });
