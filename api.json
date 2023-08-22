@@ -356,21 +356,40 @@
     "secondPart": [
       {
         "_id": 2,
-        "pHeading": "Expert In Business Process",
-        "heading": "MANAGED SERVICE",
-        "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
+        "pHeading": "Empowering Organizations Through",
+        "heading": "RECRUITMENT",
+        "pOne": "Enroute Management Consulting (EMC) is a leading recruiting agency in Bangladesh with a large number of certified and experienced business teams working closely with national and international strategic partners. We are one of the few HR recruitment companies with a reputation for the best talent sourcing, headhunting, skill recruitment, and HR consulting. EMC is unique in providing a complete solution through managing business growth.",
 
-        "btnOne": "People Outsourcing",
-        "btnTwo": "Facility Management",
-        "btnThree": "Enroute Paysolutions",
-        "btnFour": "Events & Activation",
+        "button": [
+          {
+            "id": 1,
+            "buttonOne": "Talent Sourcing",
+            "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png"
+          },
+          {
+            "id": 2,
+            "buttonTwo": "HR Consulting",
+            "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png"
+          },
+          {
+            "id": 3,
+            "buttonThree": "Skill Recruitment",
+            "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png"
+          },
+          {
+            "id": 4,
+            "buttonFour": "Pre-employment verification",
+            "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png"
+          }
+        ],
+
         "img": "https://teach-now.co.uk/wp-content/uploads/2022/12/roles.png"
       }
     ],
     "thirdPart": [
       {
         "_id": 3,
-        "pHeading": "Expert In Business Process",
+        "pHeading": "Expertyyyyyyyyyyyy In Business Process",
         "heading": "MANAGED SERVICE",
         "pOne": "Enroute International Limited is one of the reputed business process outsourcing company in Bangladesh operating over a decade and counting. With undeniable success in the local industry the roots of the company goes deep into company client relationships. We offer a long term partnership which ensures the opportunities for our clients and gives them a competitive edge over rivals through adept outsourcing options",
 
