@@ -363,22 +363,72 @@
           {
             "id": 1,
             "buttonOne": "Talent Sourcing",
-            "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png"
+            "logo": "https://www.vhv.rs/dpng/d/416-4162657_people-icon-green-hd-png-download.png",
+            "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/talent-sourcing-banner.jpg",
+            "backgroundTitle": "Talent Sourcing",
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/04/talent-sourcing-about.jpg",
+            "pTitleById": "Quality Hire Within Fingertips",
+            "headingOne": "Our Diversified ",
+            "headingTwo": "Talent Sourcing ",
+            "headingThree": "Solutions For You",
+            "pFirst": "EMC is a leading provider of executive search and managerial recruiting services in Bangladesh. One of the primary focuses of our business is assisting clients in building their human capital through a well-defined recruitment process as a value-added partner.",
+            "pSecond": "Based on a client’s objectives, the firm determines the profile of skills and background required for a position. Being one of the best talent sourcing company in Bangladesh, we work with the highest standards of integrity and confidentiality. We identify and evaluate the relevant competencies of the candidates in the most systematic approach.",
+            "pThird": "We have the experience of hiring local and MNCs in different industries in our country. As talent sourcing consultants we also help our clients strategize their human part of the business as well. We have the experience of hiring from executive level to top management positions for more than 150 organizations working in our country.",
+            "buttonData": [
+              {
+                "id": 1,
+                "imgById": "https://media.istockphoto.com/id/1351571961/photo/looking-directly-up-at-the-skyline-of-the-financial-district-in-central-london.jpg?s=612x612&w=0&k=20&c=4J_aWJc5gMATCtIbMkF0dMq4dzz_XjLx5DpwnuPJwkg=",
+                "pHeading": "Bright Solutions Feasible Result",
+                "heading": "We Provide Diversified Solutions for Leading Industries",
+                "pFirst": "We are one of the top headhunting company in Bangladesh. Our well-maintained robust talent acquisition pipeline provides a futureproof solution for the clients. We have spread our talent sourcing footprints in diversified sectors of different industries. Our covered industries include:",
+                "pointOne": "FMCG",
+                "pointTwo": "Building Materials (Cement, Paint, Steel etc)",
+                "pointThree": "Bank & NBFI",
+                "pointFour": "Telecommunication",
+                "pointFive": "IT & Software",
+                "pointSix": "Online & Digital Marketing",
+                "pointSeven": "Express and Logistics",
+                "pointEight": "Media & News Organization",
+                "pointNine": "Development Sector",
+                "pointTen": "Education Sector",
+                "pointEleven": "Pharmaceuticals",
+                "pointTwelve": "RMG",
+                "pointThirteen": "Technical Certification",
+                "pointFourteen": "Power & Energy",
+                "pointFifteen": "Tourism & Hospitality",
+                "logo": "https://media.istockphoto.com/id/1133442802/vector/green-checkmark-vector-illustration.jpg?s=612x612&w=0&k=20&c=NqyVOdwANKlbJNqbXjTvEp2wIZWUKbfUbRxm9ROPk6M="
+              },
+              {
+                "id": 2,
+                "logoOne": "https://enroute.com.bd/wp-content/uploads/2023/05/Skill-Recruitment.svg",
+                "logoTwo": "https://enroute.com.bd/wp-content/uploads/2023/05/Entry-Level-Recruitment.svg",
+                "logoThree": "https://enroute.com.bd/wp-content/uploads/2023/05/Mid-Level-Recruitment.svg",
+                "logoFour": "https://enroute.com.bd/wp-content/uploads/2023/05/Functional-Head-Recruitment.svg",
+                "logoFive": "https://enroute.com.bd/wp-content/uploads/2023/05/Business-Head-Recruitment.svg",
+                "logoSix": "https://enroute.com.bd/wp-content/uploads/2023/05/Organizational-Head-Recruitment.svg"
+              }
+            ]
           },
           {
             "id": 2,
             "buttonTwo": "HR Consulting",
-            "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png"
+            "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png",
+            "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/HR-Consulting-Banner.jpg",
+            "backgroundTitle": "HR Consulting"
           },
           {
             "id": 3,
             "buttonThree": "Skill Recruitment",
-            "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png"
+            "logo": "https://w7.pngwing.com/pngs/337/803/png-transparent-green-liquid-fried-plantain-green-painting-color-color-splash-leaf-vegetable-white-food-thumbnail.png",
+            "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/skills-recruitment-banner.jpg",
+            "backgroundTitle": "Skill Recruitment"
           },
           {
             "id": 4,
             "buttonFour": "Pre-employment verification",
-            "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png"
+            "logo": "https://w7.pngwing.com/pngs/283/605/png-transparent-butterfly-green-color-butterfly-brush-footed-butterfly-symmetry-insects-thumbnail.png",
+            "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/pre-employment-verification-banner.jpg",
+            "backgroundTitle": "Pre-employment verification"
           }
         ],
 
