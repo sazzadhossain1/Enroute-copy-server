@@ -396,16 +396,53 @@
                 "pointThirteen": "Technical Certification",
                 "pointFourteen": "Power & Energy",
                 "pointFifteen": "Tourism & Hospitality",
-                "logo": "https://media.istockphoto.com/id/1133442802/vector/green-checkmark-vector-illustration.jpg?s=612x612&w=0&k=20&c=NqyVOdwANKlbJNqbXjTvEp2wIZWUKbfUbRxm9ROPk6M="
+                "logo": "https://media.istockphoto.com/id/1133442802/vector/green-checkmark-vector-illustration.jpg?s=612x612&w=0&k=20&c=NqyVOdwANKlbJNqbXjTvEp2wIZWUKbfUbRxm9ROPk6M=",
+
+                "secondPartHeadingOne": "Our",
+                "secondPartHeadingTwo": " Foothold ",
+                "secondPartHeadingThree": "on Grade Wise ",
+                "secondPartHeadingFour": "Recruitment",
+                "secondPartParagraph": "For an organization to function and expand it requires recruitment under different categories. Under EMC’s best talent sourcing and acquisition services we provide recruitments in different grades as well. If you are expanding your business with a new service or product even when you need a workforce under a specific talent-led department of business you will require a talent sourcing consultant for the timely implementation of the business goals. Now you won’t need to look further anymore. As we are one of the leading providers of talent sourcing we can cover the different grade-wise recruitment according to your organizational necessities. Our covered different grades are"
+              }
+            ],
+            "buttonDataTwo": [
+              {
+                "id": 1,
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Skill-Recruitment.svg",
+                "secondPartTitle": "Skill Recruitment",
+                "secondPartP": "Every organization goes through the process of requiring and employing employees with specific skills or talents. These specifically designed jobs need special recruitment strategies to understand and execute as it involves the process of identifying the ideal talent, assessing the skills, qualification, experience and other relevant factors to determine the sustainability factor. At Enroute we understand the need of organization & provide the best skilled recruitment solution in Bangladesh prioritizing your business goals first."
               },
               {
                 "id": 2,
-                "logoOne": "https://enroute.com.bd/wp-content/uploads/2023/05/Skill-Recruitment.svg",
-                "logoTwo": "https://enroute.com.bd/wp-content/uploads/2023/05/Entry-Level-Recruitment.svg",
-                "logoThree": "https://enroute.com.bd/wp-content/uploads/2023/05/Mid-Level-Recruitment.svg",
-                "logoFour": "https://enroute.com.bd/wp-content/uploads/2023/05/Functional-Head-Recruitment.svg",
-                "logoFive": "https://enroute.com.bd/wp-content/uploads/2023/05/Business-Head-Recruitment.svg",
-                "logoSix": "https://enroute.com.bd/wp-content/uploads/2023/05/Organizational-Head-Recruitment.svg"
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Entry-Level-Recruitment.svg",
+                "secondPartTitle": "Entry Level Recruitment",
+                "secondPartP": "Entry level recruitment in BD generally facilitates candidates with little to no prior job experience. The vast number of candidates applying for these jobs make it challenging for the hiring companies to select the ideal candidates. Our expertise in job advertising, screening & interviewing any number of candidates to sort out the best fitted candidate for the job makes us the best recruitment agency in Dhaka for this business to address your specific entry level recruitment needs."
+              },
+              {
+                "id": 3,
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Mid-Level-Recruitment.svg",
+                "secondPartTitle": "Mid Level Recruitment",
+                "secondPartP": "Enroute is a professional recruitment agency in BD with the experience of over 15 years in recruiting mid level recruits i.e. managers, directors etc for companies all over Bangladesh. At this level its important to ensure the recruitment works for both employee and employer for business success. With our dedicated team working around the clock to find you the best possible fit for your company its becomes significantly easier for you to hire in such crucial roles. "
+              }
+            ],
+            "buttonDataTwoAgain": [
+              {
+                "id": 1,
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Functional-Head-Recruitment.svg",
+                "secondPartTitle": "Functional Head Recruitment",
+                "secondPartP": "Recruiting in the senior positions like functional head in Bangladesh is probably one of the challenging processes for any organization. We simplify the process of functional head recruitment for you with our robust methodology and selection process. We ensure the recruit is aligned with your organizational goal, strategy and business future for success in all fonts besides the right combination of technical expertise, leadership skills, and strategic thinking."
+              },
+              {
+                "id": 2,
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Business-Head-Recruitment.svg",
+                "secondPartTitle": "Business Head Recruitment",
+                "secondPartP": "Enroute is one of the best business head recruitment companies in Bangladesh. As an organization specialized in HR management we understand the need of organizations while hiring a head of business. We lead the process with clear intention of giving your business a vantage point. Our expertise in hiring for FMCGs, INGOs, MFS and other industries give us the proper understanding of your requirements & what sort of candidates will be the best fit for your business."
+              },
+              {
+                "id": 3,
+                "logo": "https://enroute.com.bd/wp-content/uploads/2023/05/Organizational-Head-Recruitment.svg",
+                "secondPartTitle": "Organizational Head Recruitment",
+                "secondPartP": "We provide the leading solution for organizational head recruitment in Bangladesh. The approach needs to be well managed and highly calculated. For over 15 years, we have been part of implementing organizational evolutions through recruitment solutions. Our networking in different industries and understanding behind recruitment in such a crucial role goes deep. Our team of dedicated recruitment personnel are highly skilled and proven in a competitive environment to ensure the best recruitment for your organization."
               }
             ]
           },
