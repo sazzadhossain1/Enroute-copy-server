@@ -425,6 +425,7 @@
                 "secondPartP": "Enroute is a professional recruitment agency in BD with the experience of over 15 years in recruiting mid level recruits i.e. managers, directors etc for companies all over Bangladesh. At this level its important to ensure the recruitment works for both employee and employer for business success. With our dedicated team working around the clock to find you the best possible fit for your company its becomes significantly easier for you to hire in such crucial roles. "
               }
             ],
+
             "buttonDataTwoAgain": [
               {
                 "id": 1,
@@ -445,6 +446,11 @@
                 "secondPartP": "We provide the leading solution for organizational head recruitment in Bangladesh. The approach needs to be well managed and highly calculated. For over 15 years, we have been part of implementing organizational evolutions through recruitment solutions. Our networking in different industries and understanding behind recruitment in such a crucial role goes deep. Our team of dedicated recruitment personnel are highly skilled and proven in a competitive environment to ensure the best recruitment for your organization."
               }
             ],
+
+            "secondPartHeadingOne": "Our",
+            "secondPartHeadingTwo": "Services",
+            "secondPartParagraph": "By outsourcing people with EnrouteCopy, Our clients can be relieved of their day to day hr operations which saves them valuable time that can be utilized for growth.",
+            "secondPartTitle": "Reroute To Success With",
             "buttonSuccessCart": [
               {
                 "id": 1,
@@ -488,7 +494,14 @@
             "buttonTwo": "HR Consulting",
             "logo": "https://w7.pngwing.com/pngs/341/591/png-transparent-green-color-brush-color-watercolor-painting-green-hand-painted-graffiti-ink-leaf-simple-thumbnail.png",
             "backgroundImg": "https://enroute.com.bd/wp-content/uploads/2022/05/HR-Consulting-Banner.jpg",
-            "backgroundTitle": "HR Consulting"
+            "backgroundTitle": "HR Consulting",
+            "img": "https://enroute.com.bd/wp-content/uploads/2022/03/HR-Consulting-About.jpg",
+            "pTitleById": "Dynamic Human Resource Solutions",
+            "headingOne": "We Provide Leading ",
+            "headingTwo": "HR Consultation ",
+            "headingThree": "Services",
+            "pFirst": "HR Consulting also refers as human resource advisory for organizations. Enroute covers from advisory to implementation of human resource requirement for partner organizations. It covers services in different spectrums. We strategize your human capital policy and design the deployment initiatives. As the hr compliance consultant we also focus on compensation and benefits framework with a view of transforming your HR function.",
+            "pSecond": "We are the country’s top hr consulting firms in Bangladesh in terms of expertise and solutions provided throughout the time. In decade long continuous progress working with renowned multinational and local organization for human resource consultation we are committed to provide the best solution for your business."
           },
           {
             "id": 3,
