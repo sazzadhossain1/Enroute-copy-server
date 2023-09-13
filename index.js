@@ -8,7 +8,7 @@ const allApis = require("./api.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("MY SERVER IS RUNNING");
+  res.send("MY SERVER IS RUNNING with all the information");
 });
 
 app.get("/allApis", (req, res) => {
